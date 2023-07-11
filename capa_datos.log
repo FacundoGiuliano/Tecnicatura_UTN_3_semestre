@@ -1,0 +1,35 @@
+07:56:23 PM:DEBUG [conexion.py:36] Creacion del pool exitosa: <psycopg2.pool.SimpleConnectionPool object at 0x7efcb4020ee0>
+07:56:23 PM:DEBUG [conexion.py:18] Conexion obtenida del pool: <connection object at 0x7efcb520e0c0; dsn: 'user=prueba password=xxx dbname=test_bd host=127.0.0.1 port=5432', closed: 0>
+07:56:23 PM:DEBUG [conexion.py:47] Regresamos al conexion del pool: <connection object at 0x7efcb520e0c0; dsn: 'user=prueba password=xxx dbname=test_bd host=127.0.0.1 port=5432', closed: 0>
+07:57:38 PM:DEBUG [conexion.py:36] Creacion del pool exitosa: <psycopg2.pool.SimpleConnectionPool object at 0x7f11a2faabc0>
+07:57:38 PM:DEBUG [conexion.py:18] Conexion obtenida del pool: <connection object at 0x7f11a41c20c0; dsn: 'user=prueba password=xxx dbname=test_bd host=127.0.0.1 port=5432', closed: 0>
+07:57:38 PM:DEBUG [conexion.py:47] Regresamos la conexion del pool: <connection object at 0x7f11a41c20c0; dsn: 'user=prueba password=xxx dbname=test_bd host=127.0.0.1 port=5432', closed: 0>
+07:59:42 PM:DEBUG [conexion.py:36] Creacion del pool exitosa: <psycopg2.pool.SimpleConnectionPool object at 0x7fa0f9d22f50>
+07:59:42 PM:DEBUG [conexion.py:18] Conexion obtenida del pool: <connection object at 0x7fa0faf3e0c0; dsn: 'user=prueba password=xxx dbname=test_bd host=127.0.0.1 port=5432', closed: 0>
+07:59:42 PM:DEBUG [conexion.py:47] Regresamos la conexion del pool: <connection object at 0x7fa0faf3e0c0; dsn: 'user=prueba password=xxx dbname=test_bd host=127.0.0.1 port=5432', closed: 0>
+07:59:42 PM:DEBUG [conexion.py:18] Conexion obtenida del pool: <connection object at 0x7fa0faf3e0c0; dsn: 'user=prueba password=xxx dbname=test_bd host=127.0.0.1 port=5432', closed: 0>
+07:59:42 PM:DEBUG [conexion.py:47] Regresamos la conexion del pool: <connection object at 0x7fa0faf3e0c0; dsn: 'user=prueba password=xxx dbname=test_bd host=127.0.0.1 port=5432', closed: 0>
+07:59:42 PM:DEBUG [conexion.py:18] Conexion obtenida del pool: <connection object at 0x7fa0faf3e0c0; dsn: 'user=prueba password=xxx dbname=test_bd host=127.0.0.1 port=5432', closed: 0>
+07:59:42 PM:DEBUG [conexion.py:47] Regresamos la conexion del pool: <connection object at 0x7fa0faf3e0c0; dsn: 'user=prueba password=xxx dbname=test_bd host=127.0.0.1 port=5432', closed: 0>
+07:59:42 PM:DEBUG [conexion.py:18] Conexion obtenida del pool: <connection object at 0x7fa0faf3e0c0; dsn: 'user=prueba password=xxx dbname=test_bd host=127.0.0.1 port=5432', closed: 0>
+07:59:42 PM:DEBUG [conexion.py:18] Conexion obtenida del pool: <connection object at 0x7fa0faf3e200; dsn: 'user=prueba password=xxx dbname=test_bd host=127.0.0.1 port=5432', closed: 0>
+08:02:22 PM:DEBUG [conexion.py:36] Creacion del pool exitosa: <psycopg2.pool.SimpleConnectionPool object at 0x7f99c916afe0>
+08:02:22 PM:DEBUG [conexion.py:18] Conexion obtenida del pool: <connection object at 0x7f99ca3860c0; dsn: 'user=prueba password=xxx dbname=test_bd host=127.0.0.1 port=5432', closed: 0>
+08:02:22 PM:DEBUG [conexion.py:47] Regresamos la conexion del pool: <connection object at 0x7f99ca3860c0; dsn: 'user=prueba password=xxx dbname=test_bd host=127.0.0.1 port=5432', closed: 0>
+08:02:22 PM:DEBUG [conexion.py:18] Conexion obtenida del pool: <connection object at 0x7f99ca3860c0; dsn: 'user=prueba password=xxx dbname=test_bd host=127.0.0.1 port=5432', closed: 0>
+08:02:22 PM:DEBUG [conexion.py:47] Regresamos la conexion del pool: <connection object at 0x7f99ca3860c0; dsn: 'user=prueba password=xxx dbname=test_bd host=127.0.0.1 port=5432', closed: 0>
+08:02:22 PM:DEBUG [conexion.py:18] Conexion obtenida del pool: <connection object at 0x7f99ca3860c0; dsn: 'user=prueba password=xxx dbname=test_bd host=127.0.0.1 port=5432', closed: 0>
+08:02:22 PM:DEBUG [conexion.py:47] Regresamos la conexion del pool: <connection object at 0x7f99ca3860c0; dsn: 'user=prueba password=xxx dbname=test_bd host=127.0.0.1 port=5432', closed: 0>
+08:02:22 PM:DEBUG [conexion.py:18] Conexion obtenida del pool: <connection object at 0x7f99ca3860c0; dsn: 'user=prueba password=xxx dbname=test_bd host=127.0.0.1 port=5432', closed: 0>
+08:02:22 PM:DEBUG [conexion.py:18] Conexion obtenida del pool: <connection object at 0x7f99ca386200; dsn: 'user=prueba password=xxx dbname=test_bd host=127.0.0.1 port=5432', closed: 0>
+08:02:23 PM:DEBUG [conexion.py:18] Conexion obtenida del pool: <connection object at 0x7f99ca386700; dsn: 'user=prueba password=xxx dbname=test_bd host=127.0.0.1 port=5432', closed: 0>
+08:02:47 PM:DEBUG [conexion.py:36] Creacion del pool exitosa: <psycopg2.pool.SimpleConnectionPool object at 0x7f1a649a2fb0>
+08:02:47 PM:DEBUG [conexion.py:18] Conexion obtenida del pool: <connection object at 0x7f1a65bba0c0; dsn: 'user=prueba password=xxx dbname=test_bd host=127.0.0.1 port=5432', closed: 0>
+08:02:47 PM:DEBUG [conexion.py:47] Regresamos la conexion del pool: <connection object at 0x7f1a65bba0c0; dsn: 'user=prueba password=xxx dbname=test_bd host=127.0.0.1 port=5432', closed: 0>
+08:02:47 PM:DEBUG [conexion.py:18] Conexion obtenida del pool: <connection object at 0x7f1a65bba0c0; dsn: 'user=prueba password=xxx dbname=test_bd host=127.0.0.1 port=5432', closed: 0>
+08:02:47 PM:DEBUG [conexion.py:47] Regresamos la conexion del pool: <connection object at 0x7f1a65bba0c0; dsn: 'user=prueba password=xxx dbname=test_bd host=127.0.0.1 port=5432', closed: 0>
+08:02:47 PM:DEBUG [conexion.py:18] Conexion obtenida del pool: <connection object at 0x7f1a65bba0c0; dsn: 'user=prueba password=xxx dbname=test_bd host=127.0.0.1 port=5432', closed: 0>
+08:02:47 PM:DEBUG [conexion.py:47] Regresamos la conexion del pool: <connection object at 0x7f1a65bba0c0; dsn: 'user=prueba password=xxx dbname=test_bd host=127.0.0.1 port=5432', closed: 0>
+08:02:47 PM:DEBUG [conexion.py:18] Conexion obtenida del pool: <connection object at 0x7f1a65bba0c0; dsn: 'user=prueba password=xxx dbname=test_bd host=127.0.0.1 port=5432', closed: 0>
+08:02:47 PM:DEBUG [conexion.py:18] Conexion obtenida del pool: <connection object at 0x7f1a65bba200; dsn: 'user=prueba password=xxx dbname=test_bd host=127.0.0.1 port=5432', closed: 0>
+08:02:47 PM:DEBUG [conexion.py:18] Conexion obtenida del pool: <connection object at 0x7f1a65bba700; dsn: 'user=prueba password=xxx dbname=test_bd host=127.0.0.1 port=5432', closed: 0>
